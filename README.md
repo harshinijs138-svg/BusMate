@@ -128,6 +128,23 @@ The default local URLs may be:
 - Attendance and passenger tracking.
 - Feedback and issue reporting.
 - Analytics and transportation reports.
+## 🌐 Live Demo
+
+🚀 **Experience BusMate:** https://busmate-web.netlify.app/
+
+BusMate is a smart campus transportation platform designed to make college commuting easier with bus tracking, estimated arrival times, route information, and dedicated interfaces for students, drivers, and administrators.
+
+### 🎯 Core Features
+- 🚌 Real-time campus bus tracking interface
+- 📍 Bus location and ETA display
+- 🗺️ Route and stop information
+- 🎓 Student dashboard
+- 🧑‍✈️ Driver tools
+- 🛡️ Centralized admin management interface
+- 📱 Modern, responsive user interface
+
+*Note: Live tracking and dashboard functionality should be described as implemented only if those features are connected and working in the deployed application.*
+
 
 ## 🤝 Contributing
 
